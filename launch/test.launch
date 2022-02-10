@@ -1,0 +1,5 @@
+ <launch>
+    <node pkg="test" name="test_node" type="test_node" output="screen" launch-prefix="sudo -E">
+    <!--<node pkg="test" name="test_node" type="test_node" output="screen" >-->
+    </node>
+ </launch>
