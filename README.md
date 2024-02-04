@@ -5,7 +5,7 @@ test pkg
 ```
 mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
-git clone https://github.com/kimku-0112/test.git
+git clone https://github.com/kimku-0112/ros_node_test.git
 ```
 # build
 ```
